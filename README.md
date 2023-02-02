@@ -8,16 +8,23 @@ I'm a software developer currently pursuing a bachelor's degree and eager to lea
 - Familiar with agile methodologies and version control using Git.
 - Proficient in developing applications for the web and mobile devices.
 
+## 🎓 Google Cloud Certified
+
+I am proud to announce that I am a Google Cloud Certified Associate Cloud Engineer. This certification recognizes my expertise in deploying, managing, and monitoring applications on the Google Cloud platform. 
+
+#### 🔗 View My Certification
+
+[![Google Cloud Certified](https://miro.medium.com/max/324/1*T59fnCvp71WqNeuytWGorA.png)](www.credential.net/8021d522-d607-41bd-8984-55980929fb55)
+
+
 ## My Projects 📚
 Here are a few of my recent projects that showcase my skills:
 
-- **Weather Application**: A simple weather application that uses an API to retrieve weather data for a specific location. Built with Python and Tkinter.
-- **To-Do List**: A to-do list application that allows users to add, mark as complete, and delete tasks. Built with JavaScript, HTML, and CSS.
-- **Banking System**: A basic banking system that allows users to deposit, withdraw, and check their balance. Built with Java and JavaFX.
+- **Weather Application**: A simple weather application that uses an API to retrieve weather data for a specific location. Built with Python.
 
 ## Contact Me 📧
 Feel free to contact me if you want to discuss projects, have questions, or just want to say hi! You can reach me through the following platforms:
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your_profile)
+- Email: [bartnicki.t@gmail.com](mailto:bartnicki.t@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/tom-bartnicki/)
 
 Thanks for visiting my GitHub page! I hope you find something that interests you.
