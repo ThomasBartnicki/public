@@ -14,7 +14,7 @@ I am proud to announce that I am a Google Cloud Certified Associate Cloud Engine
 
 ##### View My Certification 🔗
 
-[![Google Cloud Certified](<img src="https://templates.images.credential.net/16590187933301617801540872729153.png"  width="300" height="300">)](https://www.credential.net/8021d522-d607-41bd-8984-55980929fb55)
+[![Google Cloud Certified](https://templates.images.credential.net/16590187933301617801540872729153.png)](https://www.credential.net/8021d522-d607-41bd-8984-55980929fb55)
 
 
 ## My Projects 📚
