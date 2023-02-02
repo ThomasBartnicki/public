@@ -8,13 +8,13 @@ I'm a software developer currently pursuing a bachelor's degree and eager to lea
 - Familiar with agile methodologies and version control using Git.
 - Proficient in developing applications for the web and mobile devices.
 
-## 🎓 Google Cloud Certified
+## Google Cloud Certified 🎓
 
 I am proud to announce that I am a Google Cloud Certified Associate Cloud Engineer. This certification recognizes my expertise in deploying, managing, and monitoring applications on the Google Cloud platform. 
 
-#### 🔗 View My Certification
+##### View My Certification 🔗
 
-[![Google Cloud Certified](https://templates.images.credential.net/16590187933301617801540872729153.png)](https://www.credential.net/8021d522-d607-41bd-8984-55980929fb55)
+[![Google Cloud Certified](<img src="https://templates.images.credential.net/16590187933301617801540872729153.png"  width="300" height="300">)](https://www.credential.net/8021d522-d607-41bd-8984-55980929fb55)
 
 
 ## My Projects 📚
